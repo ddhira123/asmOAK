@@ -1,10 +1,12 @@
 # Procedure
 
 ## Soal kuadrat,
+```
 inputannya -> proses 	    -> 	hasil
 3		 3*3		9
 4		 4*4		16
 0		[ program berhenti ]
+```
 
 **Ceritanya Tidak boleh langsung, harus pake PROCEDURE**
 
