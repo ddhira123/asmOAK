@@ -1,6 +1,6 @@
 # Floating Point, calling from C
 
-## Basic Floating-Point Arithmetic Instructions.
+## Perintah Dasar Floating Point di ASM.
 		
 |					|		  				|
 |---------------------------------------|-----------------------------------------------|
