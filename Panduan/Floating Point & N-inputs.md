@@ -1,7 +1,8 @@
 # Floating Point, calling from C
 
 ## Basic Floating-Point Arithmetic Instructions.
-
+		
+		Column 1			|			Column 2		|
 ------------------------------------------------+-----------------------------------------------|
 faddp 	->	penambahan			|	fadd dword[a]	-> ditambah variabel a  |
 fsubp	->	pengurangan			|	fsub dword[a]	-> dikurang variabel a  |
