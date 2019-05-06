@@ -87,5 +87,4 @@ Contoh Keluaran:
 Implementation [Here](https://github.com/realplayer123/asmOAK/blob/master/oak/Add%20n-inputs.asm)
 
 
-### Untuk Rataan Suhu dengan implementasi n-inputs [disini](https://github.com/realplayer123/asmOAK/blob/master/oak/Rataan%20Suhu.asm)
-
+### Untuk Rataan Suhu dengan implementasi n-inputs [disini](https://github.com/realplayer123/asmOAK/blob/master/oak/Rataan%20Suhu%20%5Bn-inputs%5D.asm)
