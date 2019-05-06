@@ -2,10 +2,12 @@
 
 ## Basic Floating-Point Arithmetic Instructions.
 
-faddp 	->	penambahan			|	fadd dword[a]	-> ditambah variabel a
-fsubp	->	pengurangan			|	fsub dword[a]	-> dikurang variabel a
-fmulp	->	perkalian			|	fmul dword[a]	-> dikali variabel a
-fdivp	->	pembagian			|	fdiv dword[a]	-> dibagi variabel a
+------------------------------------------------+-----------------------------------------------|
+faddp 	->	penambahan			|	fadd dword[a]	-> ditambah variabel a  |
+fsubp	->	pengurangan			|	fsub dword[a]	-> dikurang variabel a  |
+fmulp	->	perkalian			|	fmul dword[a]	-> dikali variabel a    |
+fdivp	->	pembagian			|	fdiv dword[a]	-> dibagi variabel a	|
+------------------------------------------------+-----------------------------------------------|
 
 fldpi	-> 	masukin nilai pi ke stack
 
