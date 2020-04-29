@@ -6,3 +6,8 @@ For the basic instructions of usages of asm, click [here](https://github.com/ddh
 ## Disclaimer
 
 The instruction is written in Bahasa Indonesia.
+
+## References
+
+If you are interested to learn more about asm programming, click [here](https://github.com/auriza/x86).
+
